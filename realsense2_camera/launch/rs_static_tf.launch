@@ -1,0 +1,3 @@
+<launch>
+<node pkg="tf" type="static_transform_publisher" name="t265_d400_tf" args="-0.015890727 0.028273059 -0.009375589 0 0 0 1 /t265_link /d400_link 100" />
+</launch>
